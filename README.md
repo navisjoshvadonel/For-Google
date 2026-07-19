@@ -32,6 +32,9 @@ The repository is categorized by algorithmic patterns to show a structured appro
 | 7 | **Binary Search** | Divide & Conquer / Two Pointers | $O(\log N)$ | $O(1)$ | [binarSearch.py](./binarSearch.py) |
 | 8 | **Best Time to Buy and Sell Stock** | Greedy / Dynamic Programming | $O(N)$ | $O(1)$ | [Stockprices.py](./Stockprices.py) |
 | 9 | **Valid Palindrome** | Two Pointers / String Manipulation | $O(N)$ | $O(1)$ | [palindrome.py](./palindrome.py) |
+| 10 | **Invert Binary Tree** | Binary Tree / DFS Recursion | $O(N)$ | $O(H)$ (Height) | [InvertTree.py](./InvertTree.py) |
+| 11 | **Binary Tree Level Order Traversal** | Queue / BFS | $O(N)$ | $O(N)$ | [bfs.py](./bfs.py) |
+
 
 ---
 
